@@ -5,12 +5,15 @@ module.exports = {
     jest: true,
   },
   parser: '@typescript-eslint/parser',
-  extends: ['airbnb-typescript/base', 'prettier', 'prettier/@typescript-eslint'],
-  plugins: ['@typescript-eslint', 'import'],
+  extends: [
+    'airbnb-typescript/base',
+    'prettier/@typescript-eslint',
+    'plugin:vue/vue3-recommended', // base Vue 3
+    'plugin:prettier/recommended', // enable eslint-plugin-prettier, prettier as error, enables eslint-config-prettier
+    'prettier/vue', // add compatibilty with eslint-plugin-prettier (remove vue plugin conflict)
+  ],
+  plugins: ['@typescript-eslint', 'import', 'vue'],
   parserOptions: {
     project: './tsconfig.json',
-  },
-  rules: {
-    'import/prefer-default-export': 0,
   },
 }
