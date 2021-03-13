@@ -2,6 +2,7 @@
   <label :for="type"><slot></slot></label>
   <input
     :id="type"
+    class="form-input"
     :type="inputType"
     :name="type"
     :value="modelValue"
