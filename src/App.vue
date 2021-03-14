@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col h-full">
-    <img class="h-10 object-contain" alt="Vue logo" src="./assets/logo.png" />
-    <main class="container mx-auto mt-10 flex-1">
+    <img class="h-1/5 flex-none object-contain" alt="Vue logo" src="./assets/logo.png" />
+    <main class="container mx-auto mt-10 flex-1 flex flex-col">
       <router-view></router-view>
     </main>
   </div>

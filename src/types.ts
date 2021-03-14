@@ -10,3 +10,11 @@ export interface User {
   city?: string
   phone?: number
 }
+export interface Stock {
+  symbol: string
+  name: string
+  exchange: string
+  assetType: string
+  ipoDate: Date
+  status: string
+}

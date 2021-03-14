@@ -5,6 +5,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import ContactForm from './views/ContactForm.vue' // no alias @ because ts doesn't support it atm
 import HelloWorld from './views/HelloWorld.vue'
 import ExampleIndex from './views/Example/Index.vue'
+import FinancialIndex from './views/Financial/Index.vue'
 
 // 2. Define some routes
 // Each route should map to a component. The "component" can
@@ -15,6 +16,7 @@ const routes = [
   { path: '/contact', component: ContactForm },
   { path: '/', component: HelloWorld },
   { path: '/example', component: ExampleIndex },
+  { path: '/financial', component: FinancialIndex },
 ]
 
 const router = createRouter({
