@@ -1,10 +1,12 @@
 <template>
   <form-input v-model="filter" type="text"></form-input>
+  <div>{{ rowNumber }}</div>
   <table class="min-w-full leading-normal mt-5">
     <thead>
       <tr>
         <th
-          v-for="columnsName in columnsNames"
+          v-for="(columnsName, columnsIndex) in columnsNames"
+          :key="columnsIndex"
           class="px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-center text-xs font-semibold text-gray-600 uppercase tracking-wider"
         >
           <div
@@ -20,9 +22,10 @@
       </tr>
     </thead>
     <tbody>
-      <tr v-for="processedDataItem in processedData">
+      <tr v-for="(processedDataItem, itemIndex) in processedData" :key="itemIndex">
         <td
-          v-for="columnsName in columnsNames"
+          v-for="(columnsName, columnsIndex) in columnsNames"
+          :key="columnsIndex"
           class="px-5 py-5 border-b border-gray-200 bg-white text-sm w-2/5"
         >
           <p class="text-gray-900 whitespace-no-wrap">{{ processedDataItem[columnsName] }}</p>
@@ -33,10 +36,9 @@
 </template>
 
 <script lang="ts">
+import { ref, computed, defineComponent } from 'vue'
+import { get } from 'lodash/fp'
 import FormInput from './FormElements/FormInput.vue'
-import { ref, computed } from 'vue'
-import { defineComponent } from 'vue'
-import { get } from 'lodash-es'
 
 export default defineComponent({
   name: 'FinancialTable',
@@ -52,16 +54,18 @@ export default defineComponent({
   },
   setup(props) {
     const columnsNames = Object.keys(props.data[0])
+
     const filter = ref('')
     const sort = ref('')
     const direction = ref('desc')
     const sortByPath = function (path: string, dir = 'asc') {
       const dirNb = dir === 'asc' ? -1 : 1
+      const getPath = get(path) // curryfié
       return function (a, b) {
-        if (get(a, path) < get(b, path)) {
+        if (getPath(a) < getPath(b)) {
           return dirNb
         }
-        if (get(a, path) > get(b, path)) {
+        if (getPath(a) > getPath(b)) {
           return -dirNb
         }
         return 0
@@ -72,14 +76,17 @@ export default defineComponent({
         sort.value == ''
           ? props.data
           : props.data.slice().sort(sortByPath(sort.value, direction.value))
-      if (filter.value != '')
+      if (filter.value.length > 3)
         processedData = processedData.filter((item) => {
           return Object.values(item).some((value) =>
-            //value==string
+            // value==string
             value?.toLowerCase().includes(filter.value.toLowerCase())
           )
         })
       return processedData
+    })
+    const rowNumber = computed(() => {
+      return processedData.value.length
     })
     return {
       columnsNames,
@@ -87,6 +94,7 @@ export default defineComponent({
       processedData,
       sort,
       direction,
+      rowNumber,
     }
   },
 })
