@@ -1,12 +1,15 @@
 <template>
   <div class="flex">
-    <label class="flex-1 self-center text-right pr-3" :for="type"><slot></slot></label>
+    <label v-if="$slots.default" class="flex-1 self-center text-right pr-3" :for="type"
+      ><slot></slot
+    ></label>
     <input
       :id="type"
-      class="form-input flex-auto"
+      class="form-input flex-1"
       :type="inputType"
       :name="type"
       :value="modelValue"
+      :placeholder="type"
       required
       @input="$emit('update:modelValue', $event.target.value)"
     />
@@ -29,7 +32,7 @@ export default defineComponent({
   emits: ['update:modelValue'],
   computed: {
     inputType(): string {
-      const types = ['password', 'email', 'tel']
+      const types = ['text', 'password', 'email', 'tel']
       return types.includes(this.type) ? this.type : 'text'
     },
   },

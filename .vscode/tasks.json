@@ -1,0 +1,26 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "yarn: dev",
+      "type": "shell",
+      "problemMatcher": [],
+      "detail": "vite",
+      "command": "yarn dev"
+    },
+    {
+      "label": "yarn: build",
+      "type": "shell",
+      "problemMatcher": [],
+      "detail": "vite",
+      "command": "yarn build"
+    },
+    {
+      "label": "yarn: serve",
+      "type": "shell",
+      "problemMatcher": [],
+      "detail": "vite",
+      "command": "yarn serve"
+    }
+  ]
+}
