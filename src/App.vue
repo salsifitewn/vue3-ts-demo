@@ -1,6 +1,10 @@
 <template>
-  <img class="mx-auto" alt="Vue logo" src="./assets/logo.png" />
-  <router-view></router-view>
+  <div class="flex flex-col h-full">
+    <img class="h-10 object-contain" alt="Vue logo" src="./assets/logo.png" />
+    <main class="container mx-auto mt-10 flex-1">
+      <router-view></router-view>
+    </main>
+  </div>
 </template>
 
 <script lang="ts">
@@ -19,6 +23,6 @@ export default defineComponent({
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  height: 100%;
 }
 </style>

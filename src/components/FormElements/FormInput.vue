@@ -1,14 +1,16 @@
 <template>
-  <label :for="type"><slot></slot></label>
-  <input
-    :id="type"
-    class="form-input"
-    :type="inputType"
-    :name="type"
-    :value="modelValue"
-    required
-    @input="$emit('update:modelValue', $event.target.value)"
-  />
+  <div class="flex">
+    <label class="flex-1 self-center text-right pr-3" :for="type"><slot></slot></label>
+    <input
+      :id="type"
+      class="form-input flex-auto"
+      :type="inputType"
+      :name="type"
+      :value="modelValue"
+      required
+      @input="$emit('update:modelValue', $event.target.value)"
+    />
+  </div>
 </template>
 <script lang="ts">
 import { defineComponent } from 'vue'

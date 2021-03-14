@@ -1,9 +1,11 @@
 <template>
-  <form class=" " method="POST" @submit.prevent="send">
-    <form-input v-for="(value, name) in user" :key="name" v-model="user[name]" :type="name">
-      {{ startCase(name) }}</form-input
-    >
-    <input type="submit" value="envoyer" />
+  <form class="" method="POST" @submit.prevent="send">
+    <div class="form-group grid gap-5 lg:grid-cols-3">
+      <form-input v-for="(value, name) in user" :key="name" v-model="user[name]" :type="name">
+        {{ startCase(name) }}</form-input
+      >
+    </div>
+    <input class="btn btn-green mt-10 mr-5" type="submit" value="envoyer" />
   </form>
 </template>
 
