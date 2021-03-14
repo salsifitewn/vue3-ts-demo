@@ -1,6 +1,6 @@
 <template>
   <div :style="'color:' + colorCode">
-    <p>store count is: {{ $store.state.count }}</p>
+    <p>store count is: {{ $store.state.example.count }}</p>
     <p>computed count is: {{ count }}</p>
     <p>square count is: {{ $store.getters.countSquare }}</p>
   </div>
@@ -21,12 +21,14 @@ export default defineComponent({
   components: {
     FormInput,
   },
-  setup(props) {
+  setup() {
     const store = useStore()
-    const count = computed(() => store.state.count)
+    const count = computed(() => store.state.example.count)
     const colorCode = computed({
-      get: () => store.state.colorCode,
-      set: (newValue) => {
+      get(): string {
+        return store.state.example.colorCode
+      },
+      set: (newValue: string) => {
         store.dispatch('setColorCode', newValue)
       },
     })
