@@ -17,4 +17,5 @@ export interface Stock {
   assetType: string
   ipoDate: Date
   status: string
+  active: boolean
 }

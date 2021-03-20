@@ -1,0 +1,31 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "State management",
+  "steps": [
+    {
+      "file": "src/views/Financial/Index.vue",
+      "description": "Ici Utilisation de plusieurs stores :vuex et composition Api en local ou en global (avec provide/inject)",
+      "line": 35
+    },
+    {
+      "file": "src/store3/index.ts",
+      "description": "En composition API ...",
+      "line": 3
+    },
+    {
+      "file": "src/store/financial.ts",
+      "description": "Sous Vuex ...",
+      "line": 6
+    },
+    {
+      "file": "src/views/Financial/Index.vue",
+      "description": "Il est nécessaire de cliquer deux fois sur le bouton afin de charger les données? Pourquoi?",
+      "line": 8
+    },
+    {
+      "file": "src/views/Financial/Index.vue",
+      "description": "mauvaise implémentation ?",
+      "line": 49
+    }
+  ]
+}

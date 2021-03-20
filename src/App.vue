@@ -45,9 +45,11 @@
 <script lang="ts">
 // type-script
 import { defineComponent } from 'vue'
+import global from './global'
 
 export default defineComponent({
   name: 'App',
+  provide: { global },
   data() {
     return {
       active: false,

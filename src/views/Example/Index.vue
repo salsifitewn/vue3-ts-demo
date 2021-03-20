@@ -22,7 +22,8 @@ export default defineComponent({
     FormInput,
   },
   setup() {
-    const store = useStore()
+    const store = useStore() // {commit,dispatch,getters,state}
+    console.log(store.state)
     const count = computed(() => store.state.example.count)
     const colorCode = computed({
       get(): string {
