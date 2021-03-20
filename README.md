@@ -1,12 +1,11 @@
 # Financial Api
 
-représentation d'une api
-Utilisation d'une 
-
+- Utilisation d'une api (<https://www.alphavantage.co/support/#api-key>)
+- Gestion portefeuille d'actions utilisateur (Achat,Vente, Echange)
 
 @TODO
-- API vuex
-- 
+- API vuex+TS
+- Choix BDD
 
 biblio
 
