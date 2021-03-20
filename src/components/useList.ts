@@ -19,10 +19,10 @@ export default function useList(data: Array<T>) {
   }
   const processedData = computed(() => {
     let res =
-      sortState.filter.length > 3
+      sortState.sort === ''
         ? data
         : data.slice().sort(sortByPath(sortState.sort, sortState.direction))
-    if (sortState.sort === '')
+    if (sortState.filter.length > 3)
       res = res.filter((item) => {
         return Object.values(item).some((v) =>
           // v==string
