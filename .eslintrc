@@ -6,6 +6,7 @@
   "extends": [
     "standard-with-typescript",
     "plugin:vue/vue3-recommended", // base Vue 3
+    "plugin:jest/recommended",
     "plugin:prettier/recommended" // enable eslint-plugin-prettier, prettier as error, enables eslint-config-prettier
   ],
   "plugins": ["@typescript-eslint", "import"],
