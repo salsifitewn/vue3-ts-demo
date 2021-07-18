@@ -2,5 +2,6 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
-  "eslint.probe": ["javascript", "typescript", "vue"]
+  "editor.formatOnSave": false,
+  "eslint.probe": ["javascript","typescript", "vue"]
 }
