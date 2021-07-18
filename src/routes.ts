@@ -2,10 +2,10 @@ import { createRouter, createWebHistory } from 'vue-router'
 
 // 1. Define route components.
 // These can be imported from other files
-import ContactForm from './views/ContactForm.vue' // no alias @ because ts doesn't support it atm
-import HelloWorld from './views/HelloWorld.vue'
-import ExampleIndex from './views/Example/Index.vue'
-import FinancialIndex from './views/Financial/Index.vue'
+import ContactForm from '@/views/ContactForm.vue' // no alias @ because ts doesn't support it atm
+import HelloWorld from '@/views/HelloWorld.vue'
+import ExampleIndex from '@/views/Example/Index.vue'
+import FinancialIndex from '@/views/Financial/Index.vue'
 
 // 2. Define some routes
 // Each route should map to a component. The "component" can
