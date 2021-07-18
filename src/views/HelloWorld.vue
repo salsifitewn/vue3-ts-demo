@@ -5,9 +5,7 @@
     Recommended IDE setup:
     <a href="https://code.visualstudio.com/" target="_blank">VSCode</a>
     +
-    <a href="https://marketplace.visualstudio.com/items?itemName=octref.vetur" target="_blank"
-      >Vetur</a
-    >
+    <a href="https://marketplace.visualstudio.com/items?itemName=octref.vetur" target="_blank">Vetur</a>
     or
     <a href="https://github.com/johnsoncodehk/volar" target="_blank">Volar</a>
     (if using
@@ -21,15 +19,21 @@
     <a href="https://v3.vuejs.org/" target="_blank">Vue 3 Docs</a>
   </p>
 
-  <button @click="count++">count is: {{ count }}</button>
-  <p>
-    Edit
-    <code>components/HelloWorld.vue</code> to test hot module replacement.
-  </p>
+  <div>
+    <button class="btn btn-blue" @click="example.increment()">count is: {{ example.count }}</button>
+  </div>
+  <div>
+    <p>
+      Edit
+      <code>components/HelloWorld.vue</code> to test hot module replacement.
+    </p>
+  </div>
 </template>
 
 <script lang="ts">
-import { ref, defineComponent } from 'vue'
+import { useExampleStore } from '@/store/example'
+import { defineComponent } from 'vue'
+
 export default defineComponent({
   name: 'HelloWorld',
   props: {
@@ -38,9 +42,10 @@ export default defineComponent({
       required: true,
     },
   },
-  setup: () => {
-    const count = ref(0)
-    return { count }
+  setup: (props, context) => {
+    const example = useExampleStore()
+    // const count = ref(0)
+    return { example }
   },
 })
 </script>

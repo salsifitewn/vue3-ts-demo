@@ -1,36 +1,28 @@
-import axios from 'axios'
-
-export default {
-  state: {
+import { defineStore } from 'pinia'
+import { get, HttpResponse } from '@/utils/http'
+export const useExampleStore = defineStore({
+  id: 'example',
+  state: () => ({
     count: 0,
     colorCode: 'red',
-  },
-  mutations: {
-    increment(state, randomNumber) {
-      state.count += randomNumber
-    },
-    decrement(state) {
-      state.count--
-    },
-    setColorCode(state, newValue) {
-      state.colorCode = newValue
-    },
-  },
+  }),
   actions: {
-    increment({ commit }) {
-      axios(
-        'https://www.random.org/integers/?num=1&min=1&max=6&col=1&base=10&format=plain&rnd=new'
-      ).then((response) => {
-        commit('increment', response.data)
-      })
+    async increment() {
+      try {
+        const response: HttpResponse<number> = await get(
+          'https://www.random.org/integers/?num=1&min=1&max=6&col=1&base=10&format=plain&rnd=new'
+        )
+        this.count += response.parsedBody ?? 0
+      } catch (error) {
+        // let the form component display the error
+        console.error(error)
+      }
     },
-    setColorCode({ commit }, newValue) {
-      commit('setColorCode', newValue)
+    setColorCode(newValue: string) {
+      this.colorCode = newValue
     },
   },
   getters: {
-    countSquare(state) {
-      return state.count * state.count
-    },
+    countSquare: (state) => state.count * state.count,
   },
-}
+})

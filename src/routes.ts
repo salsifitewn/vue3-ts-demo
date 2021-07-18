@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHistory, RouteRecordRaw, RouteLocationNormalized } from 'vue-router'
 
 // 1. Define route components.
 // These can be imported from other files
@@ -12,9 +12,9 @@ import FinancialIndex from '@/views/Financial/Index.vue'
 // either be an actual component constructor created via
 // `Vue.extend()`, or just a component options object.
 // We'll talk about nested routes later.
-const routes = [
+const routes: RouteRecordRaw[] = [
   { path: '/contact', component: ContactForm },
-  { path: '/', component: HelloWorld },
+  { path: '/', component: HelloWorld, props: (route: RouteLocationNormalized) => ({ msg: route.query.msg }) },
   { path: '/example', component: ExampleIndex },
   { path: '/financial', component: FinancialIndex },
 ]

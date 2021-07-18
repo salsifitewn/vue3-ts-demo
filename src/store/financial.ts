@@ -1,41 +1,34 @@
-// import axios from 'axios'
-import { Stock } from '../types'
+// import axios, { AxiosResponse } from 'axios'
+import { http } from '@/utils/http'
+import { Stock } from '@/types'
+import { defineStore } from 'pinia'
 
 // const BASE_URL = 'https://www.alphavantage.co/query?function='
-
-export default {
-  state: {
+export const useFinancialStore = defineStore({
+  id: 'financial',
+  state: () => ({
     stocks: [] as Stock[],
     isLoading: false,
-  },
-  mutations: {
-    getStocks(state, newStocks: Stock[]) {
-      state.stocks = newStocks
-    },
-    Loading(state) {
-      state.isLoading = true
-    },
-    Loaded(state) {
-      state.isLoading = false
-    },
-  },
+  }),
   actions: {
-    getStocks({ commit }) {
-      commit('Loading')
-
-      fetch('json/stocks.json')
-        .then((response) => response.json())
-        .then((data) => {
-          commit('getStocks', data.stocks)
-        })
+    async getStocks() {
+      this.isLoading = true
+      try {
+        const stocks = (await http<Stock[]>('json/stocks.json')).parsedBody
+        if (stocks != null) {
+          console.log(stocks)
+          this.stocks = stocks
+        }
+      } catch (e) {}
+      // commit('getStocks', data.stocks)
       setTimeout(() => {
-        commit('Loaded')
+        this.isLoading = false
       }, 1000)
     },
   },
   getters: {
     activeStocks(state) {
-      return state.stocks.filter((stock) => stock.active)
+      return this.stocks.filter((stock) => stock.active)
     },
   },
-}
+})

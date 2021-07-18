@@ -1,3073 +1,3071 @@
-{
-  "stocks": [
-    {
-      "symbol": "A",
-      "name": "Agilent Technologies Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1999-11-18",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AA",
-      "name": "Alcoa Corp",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2016-11-01",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AACQU",
-      "name": "Artius Acquisition Inc - Units (1 Ord Share Class A & 1/3 War)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-07-14",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AACQW",
-      "name": "Artius Acquisition Inc - Warrants (13/07/2025)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-09-04",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AADR",
-      "name": "AdvisorShares Dorsey Wright ADR ETF",
-      "exchange": "NYSE ARCA",
-      "assetType": "ETF",
-      "ipoDate": "2010-07-21",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AAIC",
-      "name": "Arlington Asset Investment Corp - Class A",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1997-12-23",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AAIC-P-B",
-      "name": "Arlington Asset Investment Corp",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2017-05-16",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AAIC-P-C",
-      "name": "Arlington Asset Investment Corp",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2019-03-06",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AAL",
-      "name": "American Airlines Group Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2005-09-27",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AAMC",
-      "name": "Altisource Asset Management Corp",
-      "exchange": "NYSE MKT",
-      "assetType": "Stock",
-      "ipoDate": "2012-12-13",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AAME",
-      "name": "Atlantic American Corp",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1984-09-07",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AAN",
-      "name": "Aarons Company Inc (The)",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-11-25",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AAN-W",
-      "name": "Aarons Holdings Company Inc When Issued",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-11-25",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AAOI",
-      "name": "Applied Optoelectronics Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2013-09-26",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AAON",
-      "name": "AAON Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1992-12-16",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AAP",
-      "name": "Advance Auto Parts Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2001-11-29",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AAPL",
-      "name": "Apple Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1980-12-12",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AAT",
-      "name": "American Assets Trust Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2011-01-13",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AAU",
-      "name": "Almaden Minerals Ltd",
-      "exchange": "NYSE MKT",
-      "assetType": "Stock",
-      "ipoDate": "2005-12-20",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AAWW",
-      "name": "Atlas Air Worldwide Holdings Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2005-11-09",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AAXJ",
-      "name": "BTC iShares MSCI All Country Asia ex Japan ETF",
-      "exchange": "NASDAQ",
-      "assetType": "ETF",
-      "ipoDate": "2008-08-15",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AB",
-      "name": "AllianceBernstein Holding Lp",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1988-04-15",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABB",
-      "name": "ABB Ltd",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2001-04-06",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABBV",
-      "name": "Abbvie Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2013-01-02",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABC",
-      "name": "Amerisource Bergen Corp",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1995-04-04",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABCB",
-      "name": "Ameris Bancorp",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1994-05-19",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABCL",
-      "name": "AbCellera Biologics Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-12-11",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABCM",
-      "name": "Abcam",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2010-12-03",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABEO",
-      "name": "Abeona Therapeutics Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1980-09-19",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABEQ",
-      "name": "Absolute Core Strategy ETF",
-      "exchange": "NYSE ARCA",
-      "assetType": "ETF",
-      "ipoDate": "2020-01-22",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABEV",
-      "name": "Ambev S.A.",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1997-03-05",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABG",
-      "name": "Asbury Automotive Group Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2002-03-21",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABGI",
-      "name": "ABG Acquisition Corp I - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2021-02-17",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABIO",
-      "name": "ARCA biopharma Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1997-08-08",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABM",
-      "name": "ABM Industries Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1984-07-19",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABMD",
-      "name": "Abiomed Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1987-07-30",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABNB",
-      "name": "Airbnb Inc - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-12-10",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABR",
-      "name": "Arbor Realty Trust Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2004-04-07",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABR-P-A",
-      "name": "Arbor Realty Trust Preferred Series A",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2014-09-22",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABR-P-B",
-      "name": "Arbor Realty Trust Cumulative Redeemable Preferred Series B",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2014-09-22",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABR-P-C",
-      "name": "Arbor Realty Trust Cumulative Redeemable Preferred Series C",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2014-02-24",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABST",
-      "name": "Absolute Software Corporation",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-10-28",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABT",
-      "name": "Abbott Laboratories",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1983-04-06",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABTX",
-      "name": "Allegiance Bancshares Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2015-10-08",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ABUS",
-      "name": "Arbutus Biopharma Corp",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2015-08-03",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AC",
-      "name": "Associated Capital Group Inc - Class A",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2015-12-01",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACA",
-      "name": "Arcosa Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2018-10-30",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACAC",
-      "name": "Acies Acquisition Corp - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-12-21",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACACU",
-      "name": "Acies Acquisition Corp - Units (1 Ord Share Class A & 1/3 War)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-10-23",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACACW",
-      "name": "Acies Acquisition Corp - Warrants (30/11/2027)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-12-15",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACAD",
-      "name": "Acadia Pharmaceuticals Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2004-05-27",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACAHU",
-      "name": "Atlantic Coastal Acquisition Corp - Units (1 Ord Share Class A & 1/3 War)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2021-03-04",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACB",
-      "name": "Aurora Cannabis Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2014-07-11",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACBI",
-      "name": "Atlantic Capital Bancshares Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2015-11-02",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACC",
-      "name": "American Campus Communities Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2004-08-12",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACCD",
-      "name": "Accolade Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-07-02",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACCO",
-      "name": "Acco Brands Corporation",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2005-08-17",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACEL",
-      "name": "Accel Entertainment Inc - Class A1",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2019-11-21",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACER",
-      "name": "Acer Therapeutics Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2017-09-22",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACES",
-      "name": "ALPS Clean Energy ETF",
-      "exchange": "NYSE ARCA",
-      "assetType": "ETF",
-      "ipoDate": "2018-06-29",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACET",
-      "name": "Adicet Bio Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2018-01-26",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACEV",
-      "name": "ACE Convergence Acquisition Corp - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-09-21",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACEVU",
-      "name": "ACE Convergence Acquisition Corp - Units (1 Ord Class A & 1/2 War)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-07-28",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACEVW",
-      "name": "ACE Convergence Acquisition Corp - Warrants (30/09/2027)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-09-17",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACGL",
-      "name": "Arch Capital Group Ltd",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1995-09-14",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACGLO",
-      "name": "Arch Capital Group Ltd",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2017-08-15",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACGLP",
-      "name": "Arch Capital Group Ltd",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2016-09-23",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACH",
-      "name": "Aluminum Corporation Of China Ltd",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2001-12-11",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACHC",
-      "name": "Acadia Healthcare Company Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1994-03-04",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACHV",
-      "name": "Achieve Life Sciences Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1995-10-13",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACI",
-      "name": "Albertsons Companies Inc - Class A",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-06-26",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACIC",
-      "name": "Atlas Crest Investment Corp - Class A",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-12-18",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACIC-U",
-      "name": "Atlas Crest Investment Corp - Units (1 Ord Share Class A & 1/3 War)",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-10-28",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACIC-WS",
-      "name": "Atlas Crest Investment Corp - Warrants (01/01/9999)",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-12-18",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACII-U",
-      "name": "Atlas Crest Investment Corp II - Units (1 Ord Share Class A & 1/4 War)",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2021-02-04",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACIO",
-      "name": "ETF Series Solutions Aptus Collared Income Opportunity ETF",
-      "exchange": "BATS",
-      "assetType": "ETF",
-      "ipoDate": "2019-07-10",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACIU",
-      "name": "AC Immune SA",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2016-09-23",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACIW",
-      "name": "ACI Worldwide Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1995-02-27",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACKIT",
-      "name": "Ackrell SPAC Partners I Co - Subunits (1 Ord & 0.5 War)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2021-02-04",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACKIU",
-      "name": "Ackrell SPAC Partners I Co - Units ( 1Subunit & 0.5 War)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-12-21",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACKIW",
-      "name": "Ackrell SPAC Partners I Co - Warrants (21/12/2025)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2021-02-04",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACLS",
-      "name": "Axcelis Technologies Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2000-07-11",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACM",
-      "name": "AECOM",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2007-05-10",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACMR",
-      "name": "ACM Research Inc - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2017-11-03",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACN",
-      "name": "Accenture plc - Class A",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2001-07-19",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACNB",
-      "name": "ACNB Corp",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1996-01-02",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACND",
-      "name": "Ascendant Digital Acquisition Corp - Class A",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-09-14",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACND-U",
-      "name": "Ascendant Digital Acquisition Corp - Units ( 1 Ord Cls A & 0.5 Redeem Warr )",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-07-24",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACND-WS",
-      "name": "Ascendant Digital Acquisition Corp Warrants each whole warrant exercisable for one Class A ordinary share at an exercise price of 11.50 per share",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-09-14",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACOR",
-      "name": "Acorda Therapeutics Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2006-02-10",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACP",
-      "name": "Aberdeen Income Credit Strategies Fund",
-      "exchange": "NYSE",
-      "assetType": "ETF",
-      "ipoDate": "2011-01-27",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACQRU",
-      "name": "Independence Holdings Corp - Units (1 Ord Share Class A & 1/5 War)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2021-03-09",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACR",
-      "name": "ACRES Commercial Realty Corp",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2006-02-07",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACR-P-C",
-      "name": "ACRES Commercial Realty Corp",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2014-06-06",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACRE",
-      "name": "Ares Commercial Real Estate Corp",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2012-04-27",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACRS",
-      "name": "Aclaris Therapeutics Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2015-10-07",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACRX",
-      "name": "Acelrx Pharmaceuticals Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2011-02-11",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACSG",
-      "name": "XTRACKERS MSCI ACWI EX USA ESG LEADERS EQUITY ETF",
-      "exchange": "NYSE ARCA",
-      "assetType": "ETF",
-      "ipoDate": "2018-12-06",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACSI",
-      "name": "American Customer Satisfaction ETF",
-      "exchange": "BATS",
-      "assetType": "ETF",
-      "ipoDate": "2016-11-01",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACST",
-      "name": "Acasti Pharma Inc - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2011-05-06",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACTC",
-      "name": "ArcLight Clean Transition Corp - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-11-25",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACTCU",
-      "name": "ArcLight Clean Transition Corp - Units (1 Ord Share Class A & 1/2 War)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-09-23",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACTCW",
-      "name": "ArcLight Clean Transition Corp - Warrants(22/09/2027)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-11-24",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACTG",
-      "name": "Acacia Research Corp",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2002-12-16",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACTT",
-      "name": "ACT TELECONFERENCING INC",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2019-05-14",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACTTW",
-      "name": "Act II Global Acquisition Corp Warrants 30042026",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2019-05-14",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACTV",
-      "name": "LeaderShares Activist Leaders ETF",
-      "exchange": "NYSE ARCA",
-      "assetType": "ETF",
-      "ipoDate": "2020-10-27",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACU",
-      "name": "Acme United Corp",
-      "exchange": "NYSE MKT",
-      "assetType": "Stock",
-      "ipoDate": "1984-09-07",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACV",
-      "name": "Virtus AllianzGI Diversified Income & Convertible Fund",
-      "exchange": "NYSE",
-      "assetType": "ETF",
-      "ipoDate": "2015-05-22",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACVF",
-      "name": "American Conservative Values ETF",
-      "exchange": "NYSE ARCA",
-      "assetType": "ETF",
-      "ipoDate": "2020-10-29",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACWF",
-      "name": "iShares MSCI Global Multifactor ETF",
-      "exchange": "NYSE ARCA",
-      "assetType": "ETF",
-      "ipoDate": "2015-05-04",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACWI",
-      "name": "BTC iShares MSCI ACWI ETF",
-      "exchange": "NASDAQ",
-      "assetType": "ETF",
-      "ipoDate": "2008-03-28",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACWV",
-      "name": "iShares MSCI Global Min Vol Factor ETF",
-      "exchange": "BATS",
-      "assetType": "ETF",
-      "ipoDate": "2011-10-20",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACWX",
-      "name": "BTC iShares MSCI ACWI ex US ETF",
-      "exchange": "NASDAQ",
-      "assetType": "ETF",
-      "ipoDate": "2008-03-31",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ACY",
-      "name": "AeroCentury Corp",
-      "exchange": "NYSE MKT",
-      "assetType": "Stock",
-      "ipoDate": "1998-01-20",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADAG",
-      "name": "Adagene Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2021-02-09",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADAP",
-      "name": "Adaptimmune Therapeutics Plc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2015-05-06",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADBE",
-      "name": "Adobe Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1986-08-14",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADC",
-      "name": "Agree Realty Corp",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1994-04-15",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADCT",
-      "name": "Adc Therapeutics SA",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-05-15",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADER",
-      "name": "26 Capital Acquisition Corp - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2021-03-08",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADERU",
-      "name": "26 Capital Acquisition Corp - Units (1 Ord Class A & 1/2 War)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2021-01-15",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADERW",
-      "name": "26 Capital Acquisition Corp - Warrants (31/12/2027)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2021-03-09",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADES",
-      "name": "Advanced Emissions Solutions Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2004-01-23",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADEX",
-      "name": "Adit Edtech Acquisition Corp",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2021-03-03",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADEX-U",
-      "name": "Adit Edtech Acquisition Corp - Units (1 Ord Share & 1/2 War)",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2021-01-12",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADEX-WS",
-      "name": "Adit Edtech Acquisition Corp - Warrants (01/01/9999)",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2021-03-03",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADFI",
-      "name": "Anfield Dynamic Fixed Income ETF",
-      "exchange": "BATS",
-      "assetType": "ETF",
-      "ipoDate": "2020-08-18",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADI",
-      "name": "Analog Devices Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1984-07-19",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADIL",
-      "name": "Adial Pharmaceuticals Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2018-07-27",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADILW",
-      "name": "Adial Pharmaceuticals Inc Warrants 31072023",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2018-07-27",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADM",
-      "name": "Archer Daniels Midland Company",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1983-04-05",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADMA",
-      "name": "Adma Biologics Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2013-10-17",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADME",
-      "name": "Aptus Drawdown Managed Equity ETF",
-      "exchange": "BATS",
-      "assetType": "ETF",
-      "ipoDate": "2016-06-09",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADMP",
-      "name": "Adamis Pharmaceuticals Corp",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1995-08-14",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADMS",
-      "name": "Adamas Pharmaceuticals Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2014-04-10",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADN",
-      "name": "Advent Technologies Holdings Inc - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2019-01-23",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADNT",
-      "name": "Adient plc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2016-10-31",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADNWW",
-      "name": "Advent Technologies Holdings Inc - Warrants (03/02/2026)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2019-01-24",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADOC",
-      "name": "Edoc Acquisition Corp - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-12-10",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADOCR",
-      "name": "Edoc Acquisition Corp",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-12-10",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADOCW",
-      "name": "Edoc Acquisition Corp - Warrants (30/11/2027)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-12-10",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADP",
-      "name": "Automatic Data Processing Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1983-04-06",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADPT",
-      "name": "Adaptive Biotechnologies Corp",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2019-06-27",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADRA-U",
-      "name": "Adara Acquisition Corp - Units (1Ord Class A & 0.5 Warr)",
-      "exchange": "NYSE MKT",
-      "assetType": "Stock",
-      "ipoDate": "2021-02-09",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADRE",
-      "name": "Invesco BLDRS Emerging Markets 50 ADR Index Fund",
-      "exchange": "NASDAQ",
-      "assetType": "ETF",
-      "ipoDate": "2002-11-13",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADS",
-      "name": "Alliance Data System",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2001-06-15",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADSK",
-      "name": "Autodesk Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1985-07-01",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADT",
-      "name": "ADT Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2018-01-19",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADTN",
-      "name": "Adtran Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1994-08-10",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADTX",
-      "name": "Aditx Therapeutics Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-06-30",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADUS",
-      "name": "Addus HomeCare Corporation",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2009-10-28",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADV",
-      "name": "Advantage Solutions Inc - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2016-09-15",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADVM",
-      "name": "Adverum Biotechnologies Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2016-01-04",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADVWW",
-      "name": "Advantage Solutions Inc - Warrants (28/10/2025)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2016-09-15",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADX",
-      "name": "Adams Diversified Equity Fund",
-      "exchange": "NYSE",
-      "assetType": "ETF",
-      "ipoDate": "1984-07-19",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADXN",
-      "name": "Addex Therapeutics Ltd",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-01-29",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ADXS",
-      "name": "Advaxis Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2005-07-28",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AE",
-      "name": "Adams Resources & Energy Inc",
-      "exchange": "NYSE MKT",
-      "assetType": "Stock",
-      "ipoDate": "1984-09-07",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEAC",
-      "name": "Authentic Equity Acquisition Corp - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2021-03-08",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEACU",
-      "name": "Authentic Equity Acquisition Corp - Units (1 Ord Class A & 1/2 War)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2021-01-15",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEACW",
-      "name": "Authentic Equity Acquisition Corp - Warrants (31/10/2027)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2021-03-08",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEB",
-      "name": "Aegon N. V.",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2005-11-23",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEE",
-      "name": "Ameren Corp",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1998-01-02",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEF",
-      "name": "Aberdeen Emerging Markets Equity Income Fund Inc",
-      "exchange": "NYSE MKT",
-      "assetType": "ETF",
-      "ipoDate": "2001-01-02",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEFC",
-      "name": "Aegon Funding Company LLC 5.10 Sub Notes 12152049",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2019-10-24",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEG",
-      "name": "Aegon N. V.",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1985-07-01",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEGN",
-      "name": "Aegion Corp",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1989-04-24",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEHL",
-      "name": "Antelope Enterprise Holdings Ltd",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2007-12-17",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEHR",
-      "name": "Aehr Test Systems",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1997-08-15",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEI",
-      "name": "Alset EHome International Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-11-24",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEIS",
-      "name": "Advanced Energy Industries Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1995-11-17",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEL",
-      "name": "American Equity Investment Life Holding Company",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2003-12-04",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEL-P-A",
-      "name": "American Equity Investment Life Holding Company 5.95 PRF PERPETUAL USD 25 Ser A 11000th",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2019-11-15",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEL-P-B",
-      "name": "American Equity Investment Life Holding Company",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-06-10",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEM",
-      "name": "Agnico Eagle Mines Ltd",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1984-09-07",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEMD",
-      "name": "Aethlon Medical Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2001-01-02",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AENZ",
-      "name": "Aenza S.A.A",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2013-07-24",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEO",
-      "name": "American Eagle Outfitters Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1994-04-14",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEP",
-      "name": "American Electric Power Company Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1970-01-02",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEP-P-C",
-      "name": "American Electric Power Company Inc Corporate Units",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-08-12",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEPPL",
-      "name": "American Electric Power Company Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2019-03-15",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEPPZ",
-      "name": "American Electric Power Company Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-10-01",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AER",
-      "name": "Aercap Holdings N.V.",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2006-11-21",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AERI",
-      "name": "Aerie Pharmaceuticals Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2013-10-25",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AES",
-      "name": "AES Corp",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1991-06-26",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AESE",
-      "name": "Allied Esports Entertainment Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2017-10-25",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AESR",
-      "name": "Anfield U.S. Equity Sector Rotation ETF",
-      "exchange": "BATS",
-      "assetType": "ETF",
-      "ipoDate": "2019-12-17",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEY",
-      "name": "Addvantage Technologies Group",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1996-05-30",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEYE",
-      "name": "AudioEye Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2013-04-26",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AEZS",
-      "name": "Aeterna Zentaris Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2000-05-10",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFB",
-      "name": "AllianceBernstein National Municipal Income Fund Inc",
-      "exchange": "NYSE",
-      "assetType": "ETF",
-      "ipoDate": "2002-01-29",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFBI",
-      "name": "Affinity Bancshares Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2021-01-21",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFC",
-      "name": "Allied Capital Corp",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2007-04-17",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFG",
-      "name": "American Financial Group Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1983-04-06",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFGB",
-      "name": "American Financial Group Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2019-03-19",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFGC",
-      "name": "American Financial Group 5.125% Sub Deb due 2059",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2019-12-04",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFGD",
-      "name": "American Financial Group Inc. 5.625 Subordinated Debentures due 2060",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-06-03",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFGE",
-      "name": "American Financial Group Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2014-09-24",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFI",
-      "name": "Armstrong Flooring Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2016-03-17",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFIB",
-      "name": "Acutus Medical Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-08-06",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFIF",
-      "name": "Anfield Universal Fixed Income ETF",
-      "exchange": "BATS",
-      "assetType": "ETF",
-      "ipoDate": "2018-09-18",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFIN",
-      "name": "American Fin Tr Inc - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2018-07-19",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFINO",
-      "name": "American Fin Tr Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-12-15",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFINP",
-      "name": "American Fin Tr Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2019-03-22",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFK",
-      "name": "VanEck Vectors Africa Index ETF",
-      "exchange": "NYSE ARCA",
-      "assetType": "ETF",
-      "ipoDate": "2008-07-14",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFL",
-      "name": "Aflac Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1984-07-19",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFLG",
-      "name": "First Trust Active Factor Large Cap ETF",
-      "exchange": "NYSE ARCA",
-      "assetType": "ETF",
-      "ipoDate": "2019-12-04",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFMC",
-      "name": "FIRST TRUST ACTIVE FACTOR MID CAP ETF",
-      "exchange": "NYSE ARCA",
-      "assetType": "ETF",
-      "ipoDate": "2019-12-04",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFMD",
-      "name": "Affimed N.V.",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2014-09-12",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFRM",
-      "name": "Affirm Holdings Inc - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2021-01-13",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFSM",
-      "name": "FIRST TRUST ACTIVE FACTOR SMALL CAP ETF",
-      "exchange": "NYSE ARCA",
-      "assetType": "ETF",
-      "ipoDate": "2019-12-04",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFT",
-      "name": "Apollo Senior Floating Rate Fund Inc",
-      "exchange": "NYSE",
-      "assetType": "ETF",
-      "ipoDate": "2011-02-25",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFTY",
-      "name": "Pacer CSOP FTSE China A50 ETF",
-      "exchange": "NYSE ARCA",
-      "assetType": "ETF",
-      "ipoDate": "2015-03-12",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AFYA",
-      "name": "Afya Ltd - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2019-07-19",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AG",
-      "name": "First Majestic Silver Corporation",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2006-11-28",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGAC-U",
-      "name": "African Gold Acquisition Corp - Units (1 Ord Class A & 3/4 War)",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2021-02-26",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGBA",
-      "name": "Agba Acquisition Ltd",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2019-07-31",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGBAR",
-      "name": "AGBA Acquisition Limited Right",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2019-07-18",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGBAU",
-      "name": "Agba Acquisition Ltd - Unit (1 Ordinary share 1 Wrt & 1 Rts )",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2019-05-14",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGBAW",
-      "name": "AGBA Acquisition Limited Warrant",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2019-07-30",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGC",
-      "name": "Altimeter Growth Corp - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-12-01",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGCB",
-      "name": "Altimeter Growth Corp 2 - Class A",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2021-01-07",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGCO",
-      "name": "AGCO Corp",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1992-04-20",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGCUU",
-      "name": "Altimeter Growth Corp - Units (1 Ord Share Class A & 1/4 War)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-10-01",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGCWW",
-      "name": "Altimeter Growth Corp - Warrants (01/10/2025)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-12-07",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGD",
-      "name": "Alpine Global Dynamic Dividend Fund",
-      "exchange": "NYSE",
-      "assetType": "ETF",
-      "ipoDate": "2006-07-27",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGE",
-      "name": "AgeX Therapeutics Inc",
-      "exchange": "NYSE MKT",
-      "assetType": "Stock",
-      "ipoDate": "2018-11-29",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGEN",
-      "name": "Agenus Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2000-02-08",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGFS",
-      "name": "AgroFresh Solutions Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2015-08-03",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGFY",
-      "name": "Agrify Corp",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2021-01-28",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGG",
-      "name": "iShares Core U.S. Aggregate Bond ETF",
-      "exchange": "NYSE ARCA",
-      "assetType": "ETF",
-      "ipoDate": "2003-09-26",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGGRU",
-      "name": "Agile Growth Corp - Units (1 Ord Share Class A & 1/3 War)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2021-03-10",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGGY",
-      "name": "WisdomTree Yield Enhanced U.S. Aggregate Bond Fund",
-      "exchange": "NYSE ARCA",
-      "assetType": "ETF",
-      "ipoDate": "2015-07-09",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGI",
-      "name": "Alamos Gold Inc - Class A",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2009-02-13",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGIO",
-      "name": "Agios Pharmaceuticals Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2013-07-24",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGLE",
-      "name": "Aeglea BioTherapeutics Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2016-04-07",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGM",
-      "name": "Federal Agricultural Mortgage Corp - Class C",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1995-08-18",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGM-A",
-      "name": "Federal Agricultural Mortgage Corp - Class A",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1996-05-30",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGM-P-C",
-      "name": "Federal Agricultural Mortgage Corporation Preferred Series C Fixed to Fltg",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2014-06-19",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGM-P-D",
-      "name": "Federal Agricultural Mortgage Corporation 5700 NonCumulative Preferred Stock Series D",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2019-05-09",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGM-P-E",
-      "name": "",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-05-14",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGM-P-F",
-      "name": "Federal Agricultural Mortgage Corp",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-08-14",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGMH",
-      "name": "AGM Group Holdings Inc - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2018-04-18",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGNC",
-      "name": "AGNC Investment Corp",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2008-05-15",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGNCM",
-      "name": "AGNC Investment Corp FXDFR PRF PERPETUAL USD 25 Ser D 11000th int",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2019-02-28",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGNCN",
-      "name": "AGNC Investment Corp Depositary Shares Each Representing a 11000th Interest in a Share of 700 Series C FixedToFloating Rate Cumulative Redeemable Preferre",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2017-08-16",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGNCO",
-      "name": "AGNC Investment Corp",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2019-09-27",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGNCP",
-      "name": "AGNC Investment Corp",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-02-05",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGND",
-      "name": "WISDOMTREE NEGATIVE DURATION U.S. AGGREGATE BOND FUND NA",
-      "exchange": "NASDAQ",
-      "assetType": "ETF",
-      "ipoDate": "2013-12-18",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGO",
-      "name": "Assured Guaranty Ltd",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2004-04-23",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGO-P-B",
-      "name": "Assured Guaranty Ltd",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2014-09-22",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGO-P-E",
-      "name": "Assured Guaranty Ltd",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2010-04-01",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGO-P-F",
-      "name": "Assured Guaranty Ltd",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2014-09-22",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGQ",
-      "name": "ProShares Ultra Silver",
-      "exchange": "NYSE ARCA",
-      "assetType": "ETF",
-      "ipoDate": "2008-12-04",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGR",
-      "name": "Avangrid Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2015-12-17",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGRO",
-      "name": "Adecoagro SA",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2011-01-28",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGRX",
-      "name": "Agile Therapeutics Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2014-05-23",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGS",
-      "name": "PlayAGS Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2018-01-26",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGT",
-      "name": "iShares MSCI Argentina and Global Exposure ETF",
-      "exchange": "BATS",
-      "assetType": "ETF",
-      "ipoDate": "2017-04-27",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGTC",
-      "name": "Applied Genetic Technologies Corp",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2014-03-27",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGX",
-      "name": "Argan Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1995-08-18",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGYS",
-      "name": "Agilysys Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1990-03-26",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGZ",
-      "name": "iShares Agency Bond ETF",
-      "exchange": "NYSE ARCA",
-      "assetType": "ETF",
-      "ipoDate": "2008-11-07",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AGZD",
-      "name": "WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund",
-      "exchange": "NASDAQ",
-      "assetType": "ETF",
-      "ipoDate": "2013-12-18",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AHAC",
-      "name": "Alpha Healthcare Acquisition Corp - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-12-01",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AHACU",
-      "name": "Alpha Healthcare Acquisition Corp - Units (1 Ord Share Class A & 1/2 War)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-09-18",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AHACW",
-      "name": "Alpha Healthcare Acquisition Corp - Warrants (30/10/2023)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-11-24",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AHC",
-      "name": "A.H. Belo Corp - Class A",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2008-02-11",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AHCO",
-      "name": "AdaptHealth Corp - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2018-05-24",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AHH",
-      "name": "Armada Hoffler Properties Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2013-05-08",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AHH-P-A",
-      "name": "Armada Hoffler Properties Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2019-06-12",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AHL-P-C",
-      "name": "Aspen Insurance Holdings Limited 595 FixedtoFloating Rate Perpetual NonCumulative Preference Shares",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2013-05-07",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AHL-P-D",
-      "name": "Aspen Insurance Holdings Limited 5625 Perpetual NonCumulative Preference Shares",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2016-09-14",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AHL-P-E",
-      "name": "Aspen Insurance Hldgs",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2019-08-07",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AHPI",
-      "name": "Allied Healthcare Product Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1992-01-14",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AHT",
-      "name": "Ashford Hospitality Trust Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2003-08-26",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AHT-P-D",
-      "name": "Ashford Hospitality Trust Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2014-09-22",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AHT-P-F",
-      "name": "Ashford Hospitality Trust Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2016-07-20",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AHT-P-G",
-      "name": "Ashford Hospitality Trust Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2016-10-17",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AHT-P-H",
-      "name": "Ashford Hospitality Trust Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2017-08-17",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AHT-P-I",
-      "name": "Ashford Hospitality Trust Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2017-11-09",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AI",
-      "name": "C3.ai Inc - Class A",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-12-09",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIA",
-      "name": "BTC iShares Asia 50 ETF",
-      "exchange": "NASDAQ",
-      "assetType": "ETF",
-      "ipoDate": "2007-11-20",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIC",
-      "name": "Arlington Asset Investment Corp 6750 Sr Nt 03152025",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2015-03-20",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIEQ",
-      "name": "AI Powered Equity ETF",
-      "exchange": "NYSE ARCA",
-      "assetType": "ETF",
-      "ipoDate": "2017-10-18",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIF",
-      "name": "Apollo Tactical Income Fund Inc",
-      "exchange": "NYSE",
-      "assetType": "ETF",
-      "ipoDate": "2013-02-26",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIG",
-      "name": "American International Group Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1984-09-07",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIG-P-A",
-      "name": "American International Group Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2019-03-08",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIH",
-      "name": "Aesthetic Medical International Holdings Group Ltd",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2019-10-25",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIHS",
-      "name": "Senmiao Technology Ltd",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2018-03-16",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIIQ",
-      "name": "AI Powered International Equity ETF",
-      "exchange": "NYSE ARCA",
-      "assetType": "ETF",
-      "ipoDate": "2018-06-06",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIKI",
-      "name": "AIkido Pharma Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1984-09-07",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIM",
-      "name": "AIM ImmunoTech Inc",
-      "exchange": "NYSE MKT",
-      "assetType": "Stock",
-      "ipoDate": "1996-07-12",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIMC",
-      "name": "Altra Industrial Motion Corp",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2006-12-15",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIMT",
-      "name": "Aimmune Therapeutics Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2015-08-06",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIN",
-      "name": "Albany International Corp - Class A",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1987-09-30",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AINC",
-      "name": "Ashford Inc",
-      "exchange": "NYSE MKT",
-      "assetType": "Stock",
-      "ipoDate": "2014-11-13",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AINV",
-      "name": "Apollo Investment Corp",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2004-05-05",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIO",
-      "name": "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fd",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2019-10-29",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIQ",
-      "name": "Global X Artificial Intelligence & Technology ETF",
-      "exchange": "NASDAQ",
-      "assetType": "ETF",
-      "ipoDate": "2018-05-16",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIR",
-      "name": "AAR Corp",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1984-07-19",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIRC",
-      "name": "Apartment Income REIT Corp - Class A",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-12-15",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIRG",
-      "name": "Airgain Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2016-08-12",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIRI",
-      "name": "Air Industries Group",
-      "exchange": "NYSE MKT",
-      "assetType": "Stock",
-      "ipoDate": "2000-10-05",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIRR",
-      "name": "First Trust RBA American Industrial Renaissance ETF",
-      "exchange": "NASDAQ",
-      "assetType": "ETF",
-      "ipoDate": "2014-03-11",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIRT",
-      "name": "Air T Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1984-04-24",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIRTP",
-      "name": "Air T Inc Air T Funding Trust Preferred Securities",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2019-06-11",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIRTW",
-      "name": "Air T Inc - Warrants (30/08/2021)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2019-06-12",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIT",
-      "name": "Applied Industrial Technologies Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1984-09-07",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIV",
-      "name": "Apartment Investment & Management Co. - Class A",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1994-07-22",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIW",
-      "name": "Arlington Asset Investment Corp",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2013-05-06",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIZ",
-      "name": "Assurant Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2004-02-05",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIZN",
-      "name": "Assurant Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-11-25",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AIZP",
-      "name": "Assurant Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2018-03-08",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AJAX",
-      "name": "Ajax I - Class A",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-12-18",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AJAX-U",
-      "name": "Ajax I - Units (1 Ord Share Class A & 1/4 War)",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-10-28",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AJAX-WS",
-      "name": "Ajax I - Warrants (27/10/2025)",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2020-12-18",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AJG",
-      "name": "Arthur J. Gallagher & Company",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1984-09-07",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AJRD",
-      "name": "Aerojet Rocketdyne Holdings Inc",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1981-02-02",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AJX",
-      "name": "Great Ajax Corp",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2015-02-13",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AJXA",
-      "name": "Great Ajax Corp 725 Convertible Senior Notes due 2024",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2017-04-28",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AKAM",
-      "name": "Akamai Technologies Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "1999-10-29",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AKBA",
-      "name": "Akebia Therapeutics Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2014-03-20",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AKER",
-      "name": "Akers Biosciences Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2014-01-23",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AKIC",
-      "name": "Sports Ventures Acquisition Corp - Class A",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2021-02-26",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AKICU",
-      "name": "Sports Ventures Acquisition Corp - Units (1 Ord Share Class A & 1/3 War)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2021-01-06",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AKICW",
-      "name": "Sports Ventures Acquisition Corp - Warrants (30/11/2027)",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2021-02-26",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AKO-A",
-      "name": "Embotelladora Andina S.A.",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1994-07-07",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AKO-B",
-      "name": "Embotelladora Andina S.A.",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1997-04-07",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AKR",
-      "name": "Acadia Realty Trust",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "1993-05-27",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AKRO",
-      "name": "Akero Therapeutics Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2019-06-20",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AKTS",
-      "name": "Akoustis Technologies Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2015-11-20",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AKTX",
-      "name": "Akari Therapeutics Plc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2015-09-21",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AKU",
-      "name": "Akumin Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2018-03-08",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AKUS",
-      "name": "Akouos Inc",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2020-06-26",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AL",
-      "name": "Air Lease Corp - Class A",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2011-04-19",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "AL-P-A",
-      "name": "Air Lease Corporation 6150 FixedtoFloating Rate NonCumulative Perpetual Preferred Stock Series A",
-      "exchange": "NYSE",
-      "assetType": "Stock",
-      "ipoDate": "2019-02-27",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ALAC",
-      "name": "Alberton Acquisition Corp",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2018-11-21",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ALACR",
-      "name": "Alberton Acquisition Corp",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2018-11-21",
-      "delistingDate": null,
-      "status": "Active"
-    },
-    {
-      "symbol": "ALACU",
-      "name": "Alberton Acquisition Corp Unit 1 Ord USD 1 Rt",
-      "exchange": "NASDAQ",
-      "assetType": "Stock",
-      "ipoDate": "2018-10-24",
-      "delistingDate": null,
-      "status": "Active"
-    }
-  ]
-}
+[
+  {
+    "symbol": "A",
+    "name": "Agilent Technologies Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1999-11-18",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AA",
+    "name": "Alcoa Corp",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2016-11-01",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AACQU",
+    "name": "Artius Acquisition Inc - Units (1 Ord Share Class A & 1/3 War)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-07-14",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AACQW",
+    "name": "Artius Acquisition Inc - Warrants (13/07/2025)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-09-04",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AADR",
+    "name": "AdvisorShares Dorsey Wright ADR ETF",
+    "exchange": "NYSE ARCA",
+    "assetType": "ETF",
+    "ipoDate": "2010-07-21",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AAIC",
+    "name": "Arlington Asset Investment Corp - Class A",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1997-12-23",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AAIC-P-B",
+    "name": "Arlington Asset Investment Corp",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2017-05-16",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AAIC-P-C",
+    "name": "Arlington Asset Investment Corp",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2019-03-06",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AAL",
+    "name": "American Airlines Group Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2005-09-27",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AAMC",
+    "name": "Altisource Asset Management Corp",
+    "exchange": "NYSE MKT",
+    "assetType": "Stock",
+    "ipoDate": "2012-12-13",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AAME",
+    "name": "Atlantic American Corp",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1984-09-07",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AAN",
+    "name": "Aarons Company Inc (The)",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-11-25",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AAN-W",
+    "name": "Aarons Holdings Company Inc When Issued",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-11-25",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AAOI",
+    "name": "Applied Optoelectronics Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2013-09-26",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AAON",
+    "name": "AAON Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1992-12-16",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AAP",
+    "name": "Advance Auto Parts Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2001-11-29",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1980-12-12",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AAT",
+    "name": "American Assets Trust Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2011-01-13",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AAU",
+    "name": "Almaden Minerals Ltd",
+    "exchange": "NYSE MKT",
+    "assetType": "Stock",
+    "ipoDate": "2005-12-20",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AAWW",
+    "name": "Atlas Air Worldwide Holdings Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2005-11-09",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AAXJ",
+    "name": "BTC iShares MSCI All Country Asia ex Japan ETF",
+    "exchange": "NASDAQ",
+    "assetType": "ETF",
+    "ipoDate": "2008-08-15",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AB",
+    "name": "AllianceBernstein Holding Lp",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1988-04-15",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABB",
+    "name": "ABB Ltd",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2001-04-06",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABBV",
+    "name": "Abbvie Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2013-01-02",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABC",
+    "name": "Amerisource Bergen Corp",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1995-04-04",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABCB",
+    "name": "Ameris Bancorp",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1994-05-19",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABCL",
+    "name": "AbCellera Biologics Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-12-11",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABCM",
+    "name": "Abcam",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2010-12-03",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABEO",
+    "name": "Abeona Therapeutics Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1980-09-19",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABEQ",
+    "name": "Absolute Core Strategy ETF",
+    "exchange": "NYSE ARCA",
+    "assetType": "ETF",
+    "ipoDate": "2020-01-22",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABEV",
+    "name": "Ambev S.A.",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1997-03-05",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABG",
+    "name": "Asbury Automotive Group Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2002-03-21",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABGI",
+    "name": "ABG Acquisition Corp I - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2021-02-17",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABIO",
+    "name": "ARCA biopharma Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1997-08-08",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABM",
+    "name": "ABM Industries Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1984-07-19",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABMD",
+    "name": "Abiomed Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1987-07-30",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABNB",
+    "name": "Airbnb Inc - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-12-10",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABR",
+    "name": "Arbor Realty Trust Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2004-04-07",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABR-P-A",
+    "name": "Arbor Realty Trust Preferred Series A",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2014-09-22",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABR-P-B",
+    "name": "Arbor Realty Trust Cumulative Redeemable Preferred Series B",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2014-09-22",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABR-P-C",
+    "name": "Arbor Realty Trust Cumulative Redeemable Preferred Series C",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2014-02-24",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABST",
+    "name": "Absolute Software Corporation",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-10-28",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABT",
+    "name": "Abbott Laboratories",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1983-04-06",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABTX",
+    "name": "Allegiance Bancshares Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2015-10-08",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ABUS",
+    "name": "Arbutus Biopharma Corp",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2015-08-03",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AC",
+    "name": "Associated Capital Group Inc - Class A",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2015-12-01",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACA",
+    "name": "Arcosa Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2018-10-30",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACAC",
+    "name": "Acies Acquisition Corp - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-12-21",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACACU",
+    "name": "Acies Acquisition Corp - Units (1 Ord Share Class A & 1/3 War)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-10-23",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACACW",
+    "name": "Acies Acquisition Corp - Warrants (30/11/2027)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-12-15",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACAD",
+    "name": "Acadia Pharmaceuticals Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2004-05-27",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACAHU",
+    "name": "Atlantic Coastal Acquisition Corp - Units (1 Ord Share Class A & 1/3 War)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2021-03-04",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACB",
+    "name": "Aurora Cannabis Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2014-07-11",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACBI",
+    "name": "Atlantic Capital Bancshares Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2015-11-02",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACC",
+    "name": "American Campus Communities Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2004-08-12",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACCD",
+    "name": "Accolade Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-07-02",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACCO",
+    "name": "Acco Brands Corporation",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2005-08-17",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACEL",
+    "name": "Accel Entertainment Inc - Class A1",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2019-11-21",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACER",
+    "name": "Acer Therapeutics Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2017-09-22",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACES",
+    "name": "ALPS Clean Energy ETF",
+    "exchange": "NYSE ARCA",
+    "assetType": "ETF",
+    "ipoDate": "2018-06-29",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACET",
+    "name": "Adicet Bio Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2018-01-26",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACEV",
+    "name": "ACE Convergence Acquisition Corp - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-09-21",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACEVU",
+    "name": "ACE Convergence Acquisition Corp - Units (1 Ord Class A & 1/2 War)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-07-28",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACEVW",
+    "name": "ACE Convergence Acquisition Corp - Warrants (30/09/2027)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-09-17",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACGL",
+    "name": "Arch Capital Group Ltd",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1995-09-14",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACGLO",
+    "name": "Arch Capital Group Ltd",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2017-08-15",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACGLP",
+    "name": "Arch Capital Group Ltd",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2016-09-23",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACH",
+    "name": "Aluminum Corporation Of China Ltd",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2001-12-11",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACHC",
+    "name": "Acadia Healthcare Company Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1994-03-04",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACHV",
+    "name": "Achieve Life Sciences Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1995-10-13",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACI",
+    "name": "Albertsons Companies Inc - Class A",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-06-26",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACIC",
+    "name": "Atlas Crest Investment Corp - Class A",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-12-18",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACIC-U",
+    "name": "Atlas Crest Investment Corp - Units (1 Ord Share Class A & 1/3 War)",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-10-28",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACIC-WS",
+    "name": "Atlas Crest Investment Corp - Warrants (01/01/9999)",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-12-18",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACII-U",
+    "name": "Atlas Crest Investment Corp II - Units (1 Ord Share Class A & 1/4 War)",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2021-02-04",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACIO",
+    "name": "ETF Series Solutions Aptus Collared Income Opportunity ETF",
+    "exchange": "BATS",
+    "assetType": "ETF",
+    "ipoDate": "2019-07-10",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACIU",
+    "name": "AC Immune SA",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2016-09-23",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACIW",
+    "name": "ACI Worldwide Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1995-02-27",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACKIT",
+    "name": "Ackrell SPAC Partners I Co - Subunits (1 Ord & 0.5 War)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2021-02-04",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACKIU",
+    "name": "Ackrell SPAC Partners I Co - Units ( 1Subunit & 0.5 War)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-12-21",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACKIW",
+    "name": "Ackrell SPAC Partners I Co - Warrants (21/12/2025)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2021-02-04",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACLS",
+    "name": "Axcelis Technologies Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2000-07-11",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACM",
+    "name": "AECOM",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2007-05-10",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACMR",
+    "name": "ACM Research Inc - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2017-11-03",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACN",
+    "name": "Accenture plc - Class A",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2001-07-19",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACNB",
+    "name": "ACNB Corp",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1996-01-02",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACND",
+    "name": "Ascendant Digital Acquisition Corp - Class A",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-09-14",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACND-U",
+    "name": "Ascendant Digital Acquisition Corp - Units ( 1 Ord Cls A & 0.5 Redeem Warr )",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-07-24",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACND-WS",
+    "name": "Ascendant Digital Acquisition Corp Warrants each whole warrant exercisable for one Class A ordinary share at an exercise price of 11.50 per share",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-09-14",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACOR",
+    "name": "Acorda Therapeutics Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2006-02-10",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACP",
+    "name": "Aberdeen Income Credit Strategies Fund",
+    "exchange": "NYSE",
+    "assetType": "ETF",
+    "ipoDate": "2011-01-27",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACQRU",
+    "name": "Independence Holdings Corp - Units (1 Ord Share Class A & 1/5 War)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2021-03-09",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACR",
+    "name": "ACRES Commercial Realty Corp",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2006-02-07",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACR-P-C",
+    "name": "ACRES Commercial Realty Corp",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2014-06-06",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACRE",
+    "name": "Ares Commercial Real Estate Corp",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2012-04-27",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACRS",
+    "name": "Aclaris Therapeutics Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2015-10-07",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACRX",
+    "name": "Acelrx Pharmaceuticals Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2011-02-11",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACSG",
+    "name": "XTRACKERS MSCI ACWI EX USA ESG LEADERS EQUITY ETF",
+    "exchange": "NYSE ARCA",
+    "assetType": "ETF",
+    "ipoDate": "2018-12-06",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACSI",
+    "name": "American Customer Satisfaction ETF",
+    "exchange": "BATS",
+    "assetType": "ETF",
+    "ipoDate": "2016-11-01",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACST",
+    "name": "Acasti Pharma Inc - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2011-05-06",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACTC",
+    "name": "ArcLight Clean Transition Corp - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-11-25",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACTCU",
+    "name": "ArcLight Clean Transition Corp - Units (1 Ord Share Class A & 1/2 War)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-09-23",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACTCW",
+    "name": "ArcLight Clean Transition Corp - Warrants(22/09/2027)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-11-24",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACTG",
+    "name": "Acacia Research Corp",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2002-12-16",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACTT",
+    "name": "ACT TELECONFERENCING INC",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2019-05-14",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACTTW",
+    "name": "Act II Global Acquisition Corp Warrants 30042026",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2019-05-14",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACTV",
+    "name": "LeaderShares Activist Leaders ETF",
+    "exchange": "NYSE ARCA",
+    "assetType": "ETF",
+    "ipoDate": "2020-10-27",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACU",
+    "name": "Acme United Corp",
+    "exchange": "NYSE MKT",
+    "assetType": "Stock",
+    "ipoDate": "1984-09-07",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACV",
+    "name": "Virtus AllianzGI Diversified Income & Convertible Fund",
+    "exchange": "NYSE",
+    "assetType": "ETF",
+    "ipoDate": "2015-05-22",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACVF",
+    "name": "American Conservative Values ETF",
+    "exchange": "NYSE ARCA",
+    "assetType": "ETF",
+    "ipoDate": "2020-10-29",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACWF",
+    "name": "iShares MSCI Global Multifactor ETF",
+    "exchange": "NYSE ARCA",
+    "assetType": "ETF",
+    "ipoDate": "2015-05-04",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACWI",
+    "name": "BTC iShares MSCI ACWI ETF",
+    "exchange": "NASDAQ",
+    "assetType": "ETF",
+    "ipoDate": "2008-03-28",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACWV",
+    "name": "iShares MSCI Global Min Vol Factor ETF",
+    "exchange": "BATS",
+    "assetType": "ETF",
+    "ipoDate": "2011-10-20",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACWX",
+    "name": "BTC iShares MSCI ACWI ex US ETF",
+    "exchange": "NASDAQ",
+    "assetType": "ETF",
+    "ipoDate": "2008-03-31",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ACY",
+    "name": "AeroCentury Corp",
+    "exchange": "NYSE MKT",
+    "assetType": "Stock",
+    "ipoDate": "1998-01-20",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADAG",
+    "name": "Adagene Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2021-02-09",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADAP",
+    "name": "Adaptimmune Therapeutics Plc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2015-05-06",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADBE",
+    "name": "Adobe Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1986-08-14",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADC",
+    "name": "Agree Realty Corp",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1994-04-15",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADCT",
+    "name": "Adc Therapeutics SA",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-05-15",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADER",
+    "name": "26 Capital Acquisition Corp - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2021-03-08",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADERU",
+    "name": "26 Capital Acquisition Corp - Units (1 Ord Class A & 1/2 War)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2021-01-15",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADERW",
+    "name": "26 Capital Acquisition Corp - Warrants (31/12/2027)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2021-03-09",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADES",
+    "name": "Advanced Emissions Solutions Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2004-01-23",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADEX",
+    "name": "Adit Edtech Acquisition Corp",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2021-03-03",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADEX-U",
+    "name": "Adit Edtech Acquisition Corp - Units (1 Ord Share & 1/2 War)",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2021-01-12",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADEX-WS",
+    "name": "Adit Edtech Acquisition Corp - Warrants (01/01/9999)",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2021-03-03",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADFI",
+    "name": "Anfield Dynamic Fixed Income ETF",
+    "exchange": "BATS",
+    "assetType": "ETF",
+    "ipoDate": "2020-08-18",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADI",
+    "name": "Analog Devices Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1984-07-19",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADIL",
+    "name": "Adial Pharmaceuticals Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2018-07-27",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADILW",
+    "name": "Adial Pharmaceuticals Inc Warrants 31072023",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2018-07-27",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADM",
+    "name": "Archer Daniels Midland Company",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1983-04-05",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADMA",
+    "name": "Adma Biologics Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2013-10-17",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADME",
+    "name": "Aptus Drawdown Managed Equity ETF",
+    "exchange": "BATS",
+    "assetType": "ETF",
+    "ipoDate": "2016-06-09",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADMP",
+    "name": "Adamis Pharmaceuticals Corp",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1995-08-14",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADMS",
+    "name": "Adamas Pharmaceuticals Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2014-04-10",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADN",
+    "name": "Advent Technologies Holdings Inc - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2019-01-23",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADNT",
+    "name": "Adient plc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2016-10-31",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADNWW",
+    "name": "Advent Technologies Holdings Inc - Warrants (03/02/2026)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2019-01-24",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADOC",
+    "name": "Edoc Acquisition Corp - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-12-10",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADOCR",
+    "name": "Edoc Acquisition Corp",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-12-10",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADOCW",
+    "name": "Edoc Acquisition Corp - Warrants (30/11/2027)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-12-10",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADP",
+    "name": "Automatic Data Processing Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1983-04-06",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADPT",
+    "name": "Adaptive Biotechnologies Corp",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2019-06-27",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADRA-U",
+    "name": "Adara Acquisition Corp - Units (1Ord Class A & 0.5 Warr)",
+    "exchange": "NYSE MKT",
+    "assetType": "Stock",
+    "ipoDate": "2021-02-09",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADRE",
+    "name": "Invesco BLDRS Emerging Markets 50 ADR Index Fund",
+    "exchange": "NASDAQ",
+    "assetType": "ETF",
+    "ipoDate": "2002-11-13",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADS",
+    "name": "Alliance Data System",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2001-06-15",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADSK",
+    "name": "Autodesk Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1985-07-01",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADT",
+    "name": "ADT Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2018-01-19",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADTN",
+    "name": "Adtran Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1994-08-10",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADTX",
+    "name": "Aditx Therapeutics Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-06-30",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADUS",
+    "name": "Addus HomeCare Corporation",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2009-10-28",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADV",
+    "name": "Advantage Solutions Inc - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2016-09-15",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADVM",
+    "name": "Adverum Biotechnologies Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2016-01-04",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADVWW",
+    "name": "Advantage Solutions Inc - Warrants (28/10/2025)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2016-09-15",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADX",
+    "name": "Adams Diversified Equity Fund",
+    "exchange": "NYSE",
+    "assetType": "ETF",
+    "ipoDate": "1984-07-19",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADXN",
+    "name": "Addex Therapeutics Ltd",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-01-29",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ADXS",
+    "name": "Advaxis Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2005-07-28",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AE",
+    "name": "Adams Resources & Energy Inc",
+    "exchange": "NYSE MKT",
+    "assetType": "Stock",
+    "ipoDate": "1984-09-07",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEAC",
+    "name": "Authentic Equity Acquisition Corp - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2021-03-08",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEACU",
+    "name": "Authentic Equity Acquisition Corp - Units (1 Ord Class A & 1/2 War)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2021-01-15",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEACW",
+    "name": "Authentic Equity Acquisition Corp - Warrants (31/10/2027)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2021-03-08",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEB",
+    "name": "Aegon N. V.",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2005-11-23",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEE",
+    "name": "Ameren Corp",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1998-01-02",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEF",
+    "name": "Aberdeen Emerging Markets Equity Income Fund Inc",
+    "exchange": "NYSE MKT",
+    "assetType": "ETF",
+    "ipoDate": "2001-01-02",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEFC",
+    "name": "Aegon Funding Company LLC 5.10 Sub Notes 12152049",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2019-10-24",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEG",
+    "name": "Aegon N. V.",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1985-07-01",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEGN",
+    "name": "Aegion Corp",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1989-04-24",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEHL",
+    "name": "Antelope Enterprise Holdings Ltd",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2007-12-17",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEHR",
+    "name": "Aehr Test Systems",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1997-08-15",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEI",
+    "name": "Alset EHome International Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-11-24",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEIS",
+    "name": "Advanced Energy Industries Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1995-11-17",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEL",
+    "name": "American Equity Investment Life Holding Company",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2003-12-04",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEL-P-A",
+    "name": "American Equity Investment Life Holding Company 5.95 PRF PERPETUAL USD 25 Ser A 11000th",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2019-11-15",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEL-P-B",
+    "name": "American Equity Investment Life Holding Company",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-06-10",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEM",
+    "name": "Agnico Eagle Mines Ltd",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1984-09-07",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEMD",
+    "name": "Aethlon Medical Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2001-01-02",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AENZ",
+    "name": "Aenza S.A.A",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2013-07-24",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEO",
+    "name": "American Eagle Outfitters Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1994-04-14",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEP",
+    "name": "American Electric Power Company Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1970-01-02",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEP-P-C",
+    "name": "American Electric Power Company Inc Corporate Units",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-08-12",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEPPL",
+    "name": "American Electric Power Company Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2019-03-15",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEPPZ",
+    "name": "American Electric Power Company Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-10-01",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AER",
+    "name": "Aercap Holdings N.V.",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2006-11-21",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AERI",
+    "name": "Aerie Pharmaceuticals Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2013-10-25",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AES",
+    "name": "AES Corp",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1991-06-26",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AESE",
+    "name": "Allied Esports Entertainment Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2017-10-25",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AESR",
+    "name": "Anfield U.S. Equity Sector Rotation ETF",
+    "exchange": "BATS",
+    "assetType": "ETF",
+    "ipoDate": "2019-12-17",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEY",
+    "name": "Addvantage Technologies Group",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1996-05-30",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEYE",
+    "name": "AudioEye Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2013-04-26",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AEZS",
+    "name": "Aeterna Zentaris Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2000-05-10",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFB",
+    "name": "AllianceBernstein National Municipal Income Fund Inc",
+    "exchange": "NYSE",
+    "assetType": "ETF",
+    "ipoDate": "2002-01-29",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFBI",
+    "name": "Affinity Bancshares Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2021-01-21",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFC",
+    "name": "Allied Capital Corp",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2007-04-17",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFG",
+    "name": "American Financial Group Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1983-04-06",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFGB",
+    "name": "American Financial Group Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2019-03-19",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFGC",
+    "name": "American Financial Group 5.125% Sub Deb due 2059",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2019-12-04",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFGD",
+    "name": "American Financial Group Inc. 5.625 Subordinated Debentures due 2060",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-06-03",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFGE",
+    "name": "American Financial Group Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2014-09-24",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFI",
+    "name": "Armstrong Flooring Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2016-03-17",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFIB",
+    "name": "Acutus Medical Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-08-06",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFIF",
+    "name": "Anfield Universal Fixed Income ETF",
+    "exchange": "BATS",
+    "assetType": "ETF",
+    "ipoDate": "2018-09-18",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFIN",
+    "name": "American Fin Tr Inc - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2018-07-19",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFINO",
+    "name": "American Fin Tr Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-12-15",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFINP",
+    "name": "American Fin Tr Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2019-03-22",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFK",
+    "name": "VanEck Vectors Africa Index ETF",
+    "exchange": "NYSE ARCA",
+    "assetType": "ETF",
+    "ipoDate": "2008-07-14",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFL",
+    "name": "Aflac Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1984-07-19",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFLG",
+    "name": "First Trust Active Factor Large Cap ETF",
+    "exchange": "NYSE ARCA",
+    "assetType": "ETF",
+    "ipoDate": "2019-12-04",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFMC",
+    "name": "FIRST TRUST ACTIVE FACTOR MID CAP ETF",
+    "exchange": "NYSE ARCA",
+    "assetType": "ETF",
+    "ipoDate": "2019-12-04",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFMD",
+    "name": "Affimed N.V.",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2014-09-12",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFRM",
+    "name": "Affirm Holdings Inc - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2021-01-13",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFSM",
+    "name": "FIRST TRUST ACTIVE FACTOR SMALL CAP ETF",
+    "exchange": "NYSE ARCA",
+    "assetType": "ETF",
+    "ipoDate": "2019-12-04",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFT",
+    "name": "Apollo Senior Floating Rate Fund Inc",
+    "exchange": "NYSE",
+    "assetType": "ETF",
+    "ipoDate": "2011-02-25",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFTY",
+    "name": "Pacer CSOP FTSE China A50 ETF",
+    "exchange": "NYSE ARCA",
+    "assetType": "ETF",
+    "ipoDate": "2015-03-12",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AFYA",
+    "name": "Afya Ltd - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2019-07-19",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AG",
+    "name": "First Majestic Silver Corporation",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2006-11-28",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGAC-U",
+    "name": "African Gold Acquisition Corp - Units (1 Ord Class A & 3/4 War)",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2021-02-26",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGBA",
+    "name": "Agba Acquisition Ltd",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2019-07-31",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGBAR",
+    "name": "AGBA Acquisition Limited Right",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2019-07-18",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGBAU",
+    "name": "Agba Acquisition Ltd - Unit (1 Ordinary share 1 Wrt & 1 Rts )",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2019-05-14",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGBAW",
+    "name": "AGBA Acquisition Limited Warrant",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2019-07-30",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGC",
+    "name": "Altimeter Growth Corp - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-12-01",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGCB",
+    "name": "Altimeter Growth Corp 2 - Class A",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2021-01-07",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGCO",
+    "name": "AGCO Corp",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1992-04-20",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGCUU",
+    "name": "Altimeter Growth Corp - Units (1 Ord Share Class A & 1/4 War)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-10-01",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGCWW",
+    "name": "Altimeter Growth Corp - Warrants (01/10/2025)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-12-07",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGD",
+    "name": "Alpine Global Dynamic Dividend Fund",
+    "exchange": "NYSE",
+    "assetType": "ETF",
+    "ipoDate": "2006-07-27",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGE",
+    "name": "AgeX Therapeutics Inc",
+    "exchange": "NYSE MKT",
+    "assetType": "Stock",
+    "ipoDate": "2018-11-29",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGEN",
+    "name": "Agenus Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2000-02-08",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGFS",
+    "name": "AgroFresh Solutions Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2015-08-03",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGFY",
+    "name": "Agrify Corp",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2021-01-28",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGG",
+    "name": "iShares Core U.S. Aggregate Bond ETF",
+    "exchange": "NYSE ARCA",
+    "assetType": "ETF",
+    "ipoDate": "2003-09-26",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGGRU",
+    "name": "Agile Growth Corp - Units (1 Ord Share Class A & 1/3 War)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2021-03-10",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGGY",
+    "name": "WisdomTree Yield Enhanced U.S. Aggregate Bond Fund",
+    "exchange": "NYSE ARCA",
+    "assetType": "ETF",
+    "ipoDate": "2015-07-09",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGI",
+    "name": "Alamos Gold Inc - Class A",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2009-02-13",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGIO",
+    "name": "Agios Pharmaceuticals Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2013-07-24",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGLE",
+    "name": "Aeglea BioTherapeutics Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2016-04-07",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGM",
+    "name": "Federal Agricultural Mortgage Corp - Class C",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1995-08-18",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGM-A",
+    "name": "Federal Agricultural Mortgage Corp - Class A",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1996-05-30",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGM-P-C",
+    "name": "Federal Agricultural Mortgage Corporation Preferred Series C Fixed to Fltg",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2014-06-19",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGM-P-D",
+    "name": "Federal Agricultural Mortgage Corporation 5700 NonCumulative Preferred Stock Series D",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2019-05-09",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGM-P-E",
+    "name": "",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-05-14",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGM-P-F",
+    "name": "Federal Agricultural Mortgage Corp",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-08-14",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGMH",
+    "name": "AGM Group Holdings Inc - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2018-04-18",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGNC",
+    "name": "AGNC Investment Corp",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2008-05-15",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGNCM",
+    "name": "AGNC Investment Corp FXDFR PRF PERPETUAL USD 25 Ser D 11000th int",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2019-02-28",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGNCN",
+    "name": "AGNC Investment Corp Depositary Shares Each Representing a 11000th Interest in a Share of 700 Series C FixedToFloating Rate Cumulative Redeemable Preferre",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2017-08-16",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGNCO",
+    "name": "AGNC Investment Corp",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2019-09-27",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGNCP",
+    "name": "AGNC Investment Corp",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-02-05",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGND",
+    "name": "WISDOMTREE NEGATIVE DURATION U.S. AGGREGATE BOND FUND NA",
+    "exchange": "NASDAQ",
+    "assetType": "ETF",
+    "ipoDate": "2013-12-18",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGO",
+    "name": "Assured Guaranty Ltd",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2004-04-23",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGO-P-B",
+    "name": "Assured Guaranty Ltd",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2014-09-22",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGO-P-E",
+    "name": "Assured Guaranty Ltd",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2010-04-01",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGO-P-F",
+    "name": "Assured Guaranty Ltd",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2014-09-22",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGQ",
+    "name": "ProShares Ultra Silver",
+    "exchange": "NYSE ARCA",
+    "assetType": "ETF",
+    "ipoDate": "2008-12-04",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGR",
+    "name": "Avangrid Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2015-12-17",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGRO",
+    "name": "Adecoagro SA",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2011-01-28",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGRX",
+    "name": "Agile Therapeutics Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2014-05-23",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGS",
+    "name": "PlayAGS Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2018-01-26",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGT",
+    "name": "iShares MSCI Argentina and Global Exposure ETF",
+    "exchange": "BATS",
+    "assetType": "ETF",
+    "ipoDate": "2017-04-27",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGTC",
+    "name": "Applied Genetic Technologies Corp",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2014-03-27",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGX",
+    "name": "Argan Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1995-08-18",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGYS",
+    "name": "Agilysys Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1990-03-26",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGZ",
+    "name": "iShares Agency Bond ETF",
+    "exchange": "NYSE ARCA",
+    "assetType": "ETF",
+    "ipoDate": "2008-11-07",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AGZD",
+    "name": "WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund",
+    "exchange": "NASDAQ",
+    "assetType": "ETF",
+    "ipoDate": "2013-12-18",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AHAC",
+    "name": "Alpha Healthcare Acquisition Corp - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-12-01",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AHACU",
+    "name": "Alpha Healthcare Acquisition Corp - Units (1 Ord Share Class A & 1/2 War)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-09-18",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AHACW",
+    "name": "Alpha Healthcare Acquisition Corp - Warrants (30/10/2023)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-11-24",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AHC",
+    "name": "A.H. Belo Corp - Class A",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2008-02-11",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AHCO",
+    "name": "AdaptHealth Corp - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2018-05-24",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AHH",
+    "name": "Armada Hoffler Properties Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2013-05-08",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AHH-P-A",
+    "name": "Armada Hoffler Properties Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2019-06-12",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AHL-P-C",
+    "name": "Aspen Insurance Holdings Limited 595 FixedtoFloating Rate Perpetual NonCumulative Preference Shares",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2013-05-07",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AHL-P-D",
+    "name": "Aspen Insurance Holdings Limited 5625 Perpetual NonCumulative Preference Shares",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2016-09-14",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AHL-P-E",
+    "name": "Aspen Insurance Hldgs",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2019-08-07",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AHPI",
+    "name": "Allied Healthcare Product Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1992-01-14",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AHT",
+    "name": "Ashford Hospitality Trust Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2003-08-26",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AHT-P-D",
+    "name": "Ashford Hospitality Trust Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2014-09-22",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AHT-P-F",
+    "name": "Ashford Hospitality Trust Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2016-07-20",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AHT-P-G",
+    "name": "Ashford Hospitality Trust Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2016-10-17",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AHT-P-H",
+    "name": "Ashford Hospitality Trust Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2017-08-17",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AHT-P-I",
+    "name": "Ashford Hospitality Trust Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2017-11-09",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AI",
+    "name": "C3.ai Inc - Class A",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-12-09",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIA",
+    "name": "BTC iShares Asia 50 ETF",
+    "exchange": "NASDAQ",
+    "assetType": "ETF",
+    "ipoDate": "2007-11-20",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIC",
+    "name": "Arlington Asset Investment Corp 6750 Sr Nt 03152025",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2015-03-20",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIEQ",
+    "name": "AI Powered Equity ETF",
+    "exchange": "NYSE ARCA",
+    "assetType": "ETF",
+    "ipoDate": "2017-10-18",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIF",
+    "name": "Apollo Tactical Income Fund Inc",
+    "exchange": "NYSE",
+    "assetType": "ETF",
+    "ipoDate": "2013-02-26",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIG",
+    "name": "American International Group Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1984-09-07",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIG-P-A",
+    "name": "American International Group Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2019-03-08",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIH",
+    "name": "Aesthetic Medical International Holdings Group Ltd",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2019-10-25",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIHS",
+    "name": "Senmiao Technology Ltd",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2018-03-16",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIIQ",
+    "name": "AI Powered International Equity ETF",
+    "exchange": "NYSE ARCA",
+    "assetType": "ETF",
+    "ipoDate": "2018-06-06",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIKI",
+    "name": "AIkido Pharma Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1984-09-07",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIM",
+    "name": "AIM ImmunoTech Inc",
+    "exchange": "NYSE MKT",
+    "assetType": "Stock",
+    "ipoDate": "1996-07-12",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIMC",
+    "name": "Altra Industrial Motion Corp",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2006-12-15",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIMT",
+    "name": "Aimmune Therapeutics Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2015-08-06",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIN",
+    "name": "Albany International Corp - Class A",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1987-09-30",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AINC",
+    "name": "Ashford Inc",
+    "exchange": "NYSE MKT",
+    "assetType": "Stock",
+    "ipoDate": "2014-11-13",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AINV",
+    "name": "Apollo Investment Corp",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2004-05-05",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIO",
+    "name": "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fd",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2019-10-29",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIQ",
+    "name": "Global X Artificial Intelligence & Technology ETF",
+    "exchange": "NASDAQ",
+    "assetType": "ETF",
+    "ipoDate": "2018-05-16",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIR",
+    "name": "AAR Corp",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1984-07-19",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIRC",
+    "name": "Apartment Income REIT Corp - Class A",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-12-15",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIRG",
+    "name": "Airgain Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2016-08-12",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIRI",
+    "name": "Air Industries Group",
+    "exchange": "NYSE MKT",
+    "assetType": "Stock",
+    "ipoDate": "2000-10-05",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIRR",
+    "name": "First Trust RBA American Industrial Renaissance ETF",
+    "exchange": "NASDAQ",
+    "assetType": "ETF",
+    "ipoDate": "2014-03-11",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIRT",
+    "name": "Air T Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1984-04-24",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIRTP",
+    "name": "Air T Inc Air T Funding Trust Preferred Securities",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2019-06-11",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIRTW",
+    "name": "Air T Inc - Warrants (30/08/2021)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2019-06-12",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIT",
+    "name": "Applied Industrial Technologies Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1984-09-07",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIV",
+    "name": "Apartment Investment & Management Co. - Class A",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1994-07-22",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIW",
+    "name": "Arlington Asset Investment Corp",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2013-05-06",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIZ",
+    "name": "Assurant Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2004-02-05",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIZN",
+    "name": "Assurant Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-11-25",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AIZP",
+    "name": "Assurant Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2018-03-08",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AJAX",
+    "name": "Ajax I - Class A",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-12-18",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AJAX-U",
+    "name": "Ajax I - Units (1 Ord Share Class A & 1/4 War)",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-10-28",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AJAX-WS",
+    "name": "Ajax I - Warrants (27/10/2025)",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2020-12-18",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AJG",
+    "name": "Arthur J. Gallagher & Company",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1984-09-07",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AJRD",
+    "name": "Aerojet Rocketdyne Holdings Inc",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1981-02-02",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AJX",
+    "name": "Great Ajax Corp",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2015-02-13",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AJXA",
+    "name": "Great Ajax Corp 725 Convertible Senior Notes due 2024",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2017-04-28",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AKAM",
+    "name": "Akamai Technologies Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "1999-10-29",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AKBA",
+    "name": "Akebia Therapeutics Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2014-03-20",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AKER",
+    "name": "Akers Biosciences Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2014-01-23",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AKIC",
+    "name": "Sports Ventures Acquisition Corp - Class A",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2021-02-26",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AKICU",
+    "name": "Sports Ventures Acquisition Corp - Units (1 Ord Share Class A & 1/3 War)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2021-01-06",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AKICW",
+    "name": "Sports Ventures Acquisition Corp - Warrants (30/11/2027)",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2021-02-26",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AKO-A",
+    "name": "Embotelladora Andina S.A.",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1994-07-07",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AKO-B",
+    "name": "Embotelladora Andina S.A.",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1997-04-07",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AKR",
+    "name": "Acadia Realty Trust",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "1993-05-27",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AKRO",
+    "name": "Akero Therapeutics Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2019-06-20",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AKTS",
+    "name": "Akoustis Technologies Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2015-11-20",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AKTX",
+    "name": "Akari Therapeutics Plc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2015-09-21",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AKU",
+    "name": "Akumin Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2018-03-08",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AKUS",
+    "name": "Akouos Inc",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2020-06-26",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AL",
+    "name": "Air Lease Corp - Class A",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2011-04-19",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "AL-P-A",
+    "name": "Air Lease Corporation 6150 FixedtoFloating Rate NonCumulative Perpetual Preferred Stock Series A",
+    "exchange": "NYSE",
+    "assetType": "Stock",
+    "ipoDate": "2019-02-27",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ALAC",
+    "name": "Alberton Acquisition Corp",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2018-11-21",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ALACR",
+    "name": "Alberton Acquisition Corp",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2018-11-21",
+    "delistingDate": null,
+    "status": "Active"
+  },
+  {
+    "symbol": "ALACU",
+    "name": "Alberton Acquisition Corp Unit 1 Ord USD 1 Rt",
+    "exchange": "NASDAQ",
+    "assetType": "Stock",
+    "ipoDate": "2018-10-24",
+    "delistingDate": null,
+    "status": "Active"
+  }
+]

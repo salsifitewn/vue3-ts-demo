@@ -7,7 +7,17 @@
         <th
           v-for="(column, columnsIndex) in columns"
           :key="columnsIndex"
-          class="px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-center text-xs font-semibold text-gray-600 uppercase tracking-wider"
+          class="
+            px-5
+            py-3
+            border-b-2 border-gray-200
+            bg-gray-100
+            text-center text-xs
+            font-semibold
+            text-gray-600
+            uppercase
+            tracking-wider
+          "
         >
           <div
             @click="
@@ -41,6 +51,14 @@
 import { computed, defineComponent, PropType } from 'vue'
 import FormInput from './FormElements/FormInput.vue'
 import useList from './useList'
+
+export interface Field {
+  isActive: boolean
+  label: string
+  sortable: boolean
+  sortPath: string
+  key: string
+}
 
 export default defineComponent({
   name: 'FinancialTable',
@@ -86,14 +104,6 @@ export default defineComponent({
     }
   },
 })
-
-export interface Field {
-  isActive: boolean
-  label: string
-  sortable: boolean
-  sortPath: string
-  key: string
-}
 </script>
 
 <style></style>
